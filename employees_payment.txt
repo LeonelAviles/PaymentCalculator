@@ -1,0 +1,5 @@
+Juan Del Pueblo $2100.0
+Smith Jones $1700.0
+Diana Ross $1300.0
+Barack Trump $1500.0
+John GoodFellow $3600.0
